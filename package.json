@@ -1,0 +1,26 @@
+{
+  "name": "box-content",
+  "version": "0.0.1",
+  "description": "A Node.js driver for Box Content API (v2.0)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Growmies/box-content.git"
+  },
+  "keywords": [
+    "box",
+    "box.com",
+    "content",
+    "api",
+    "box.net"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Growmies/box-content/issues"
+  },
+  "homepage": "https://github.com/Growmies/box-content"
+}
