@@ -22,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/Growmies/box-content/issues"
   },
-  "homepage": "https://github.com/Growmies/box-content"
+  "homepage": "https://github.com/Growmies/box-content",
+  "dependencies": {
+    "bluebird": "^2.9.13",
+    "lodash": "^3.3.1",
+    "moment": "^2.9.0",
+    "unirest": "^0.4.0"
+  },
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "mocha": "^2.1.0"
+  }
 }
